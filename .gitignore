@@ -1,0 +1,90 @@
+# =========================
+# Compiled Object files
+# =========================
+*.o
+*.obj
+*.lo
+*.slo
+*.gch
+*.pch
+
+
+# =========================
+# Executables
+# =========================
+*.exe
+*.out
+*.app
+*.i*
+*.so
+*.dll
+*.dylib
+*.cph
+# =========================
+# Static & Dynamic Libraries
+# =========================
+*.a
+*.lib
+
+# =========================
+# Debug files
+# =========================
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# =========================
+# Build folders
+# =========================
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+# Make
+# =========================
+*.make
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+*.cachefile
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# CLion / JetBrains
+# =========================
+.idea/
+
+# =========================
+# Mac system files
+# =========================
+.DS_Store
+
+# =========================
+# Linux system files
+# =========================
+*~
